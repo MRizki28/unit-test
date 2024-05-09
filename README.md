@@ -6,8 +6,8 @@ Struktur for unit test folder.
     ├── ...
     ├── tests                   
     │   ├── mahasiswa        
-    │   │   ├── MahasiswaTest
-    │   │
+    │   │   ├── Feature
+    │   │       ├── MahasiswaTest.php
     └── ...
 
 
